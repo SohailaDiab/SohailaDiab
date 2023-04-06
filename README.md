@@ -1,5 +1,5 @@
 <h1 align="center">Hello! 👋<br> I'm Sohaila Diab :)</h1>
-<h3 align="center">An AI student in Cairo University, passionate about working with data to get fascinating results 💻</h3>
+<h3 align="center">An AI student in Cairo University, passionate about utilizing data to achieve impactful outcomes 💻</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sohailadiab&label=Profile%20views&color=0e75b6&style=flat" alt="sohailadiab" /> </p>
 
