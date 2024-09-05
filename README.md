@@ -1,11 +1,11 @@
 <h1 align="center">Hello! 👋<br> I'm Sohaila Diab :)</h1>
-<h3 align="center">An AI student in Cairo University, passionate about utilizing data to achieve impactful outcomes 💻</h3>
+<h3 align="center">A data scientist, passionate about utilizing data to achieve impactful outcomes 💻</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sohailadiab&label=Profile%20views&color=0e75b6&style=flat" alt="sohailadiab" /> </p>
 
 - 📍 Cairo, Egypt
 
-- 🏫 Cairo University, Faculty of Computers and Artificial Intelligence
+- 🏫 Cairo University Graduate, Faculty of Computers and Artificial Intelligence
 
 - 📫 How to reach me: **sohaila.d0101@gmail.com**
 
